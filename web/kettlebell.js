@@ -8,6 +8,7 @@
             document.getElementById("tervar").innerText = valasz.edzoterv;
             document.getElementById("szazalek").innerText = valasz.kedvezmeny;
             document.getElementById("kiloar").innerText = valasz.kiloar;
+            document.getElementById("tankonyv").innerText = valasz.tankonyv;
     console.log(this.responseText);
   }
     });
